@@ -1,0 +1,13 @@
+Hej
+
+Detta är ett första utkast till vårt arbete.
+
+Unvik att ändra något i någon annans kod och behövs det vitala personen att ändra sin kod. Om det görs unviker vi konflikter :)
+
+Lägga till får ni gärna göra för att testa och kommentera helre bort kod än att radera koden. Byt ej namn utan att meddela då det kan bugga om något är beroende av namnet!
+
+Gör så lång som möjligt egna komponenter och implementera, kommentera det ni gör så blir allt lättare. Om ni skapar något som är beroende av state i någon annans komponent så kommentera det.
+
+Jag kommer köra med Store lösning där det är möjligt!
+
+Fråga om det är något :)
